@@ -1,0 +1,10 @@
+{
+  "device": "cpu",
+  "parameters": 4335484,
+  "train_images": 1293,
+  "train_designs": 4,
+  "best_selection_score": 0.8608695864677429,
+  "finetune_last_blocks": 2,
+  "cpu_threads": 4,
+  "selection": "validation nearest-neighbor Recall@1"
+}

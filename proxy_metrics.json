@@ -1,0 +1,25 @@
+{
+  "identification": {
+    "recall@1": 0.8064516129032258,
+    "recall@5": 1.0,
+    "mAP": 0.7446358110547645,
+    "queries": 31
+  },
+  "verification_gallery_query": {
+    "roc_auc": 0.8831371191135734,
+    "eer": 0.19736842105263158,
+    "threshold": 0.21544808149337769,
+    "accuracy": 0.8004385964912281,
+    "pairs_per_class": 228,
+    "fpr_at_threshold": null
+  },
+  "verification_calibration": {
+    "roc_auc": 0.8601665988422792,
+    "eer": 0.22507204610951007,
+    "threshold": 0.21544808149337769,
+    "accuracy": 0.77492795389049,
+    "pairs_per_class": 1735,
+    "fpr_at_threshold": 0.22536023054755044
+  },
+  "verification_threshold_source": "validation pairs"
+}

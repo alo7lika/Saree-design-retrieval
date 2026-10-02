@@ -1,0 +1,9 @@
+path,design_id,colorway_id,split
+images/design_001_blue_a.jpg,design_001,design_001_blue,train
+images/design_001_red_a.jpg,design_001,design_001_red,train
+images/design_001_green_b.jpg,design_001,design_001_green,gallery
+images/design_001_gold_c.jpg,design_001,design_001_gold,query
+images/design_002_blue_a.jpg,design_002,design_002_blue,train
+images/design_002_red_a.jpg,design_002,design_002_red,train
+images/design_002_green_b.jpg,design_002,design_002_green,gallery
+images/design_002_gold_c.jpg,design_002,design_002_gold,query

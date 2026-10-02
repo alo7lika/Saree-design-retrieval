@@ -1,0 +1,9 @@
+{
+  "parameters": 4335484,
+  "embedding_dimensions": 256,
+  "latency_ms_batch1_model_only_p50": 102.85210001165979,
+  "latency_ms_batch1_model_only_mean": 119.54819699865766,
+  "device": "cpu",
+  "input": "1x3x224x224",
+  "threads": 4
+}

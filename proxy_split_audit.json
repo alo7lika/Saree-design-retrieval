@@ -1,0 +1,13 @@
+{
+  "gallery_images": 29,
+  "query_images": 31,
+  "gallery_designs": 4,
+  "query_designs": 4,
+  "design_overlap": 4,
+  "gallery_colorways": 0,
+  "query_colorways": 0,
+  "shared_colorway_ids": 0,
+  "colorway_annotations_available": false,
+  "identity_scope": "category_proxy",
+  "query_designs_missing_from_gallery": []
+}
